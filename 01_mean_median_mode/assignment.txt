@@ -1,0 +1,6 @@
+1. Ask the user how many integers they want to enter and store in an array. n must be between 0 and 100 (inclusive).
+2. Get this many integers from the user. All integers are between 10 and 50 (inclusive).
+3. Output the elements in A.
+4. Compute and report the mean accurate to 2 decimal places.
+5. Compute and report the median accurate to 2 decimal places.
+6. Compute and report the mode.

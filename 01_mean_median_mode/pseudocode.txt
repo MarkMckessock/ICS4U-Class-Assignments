@@ -1,0 +1,26 @@
+Calculate Mean function: returns mean as float
+  Calculate sum of Array
+  Divide sum by # of nums
+
+Calculate median function: returns median as float
+  Sort array lowest to highest.
+  If even # of nums:
+    Find difference between two middle numbers.
+    Add half of difference to the lower number.
+  If odd # of nums:
+    Median = middle number.
+
+Calculate mode function: returns pointer to array of mode values.
+  Count how many times each number was entered.
+  Find the highest number of times any number was entered.
+  If that number is greater than 1, there is a mode.
+  Every number that was entered that many of times is a mode.
+  Return array of modes.
+
+Main:
+  Get number of numbers from user.
+  Get numbers from user.
+  Print numbers
+  Calculate mean.
+  Calculate median.
+  Calculate mode.
